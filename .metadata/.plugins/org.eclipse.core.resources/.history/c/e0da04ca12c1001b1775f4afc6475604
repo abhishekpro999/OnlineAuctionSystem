@@ -1,3 +1,0 @@
-module admin2 {
-	requires java.desktop;
-}
